@@ -1,7 +1,7 @@
-#  8086 Assembly Programs
+#  8085 Assembly Programs
 
-Welcome to my **8086 Microprocessor Assembly Code Collection**  
-This repository contains various assembly programs for the **Intel 8086**, written in `.asm` format.
+Welcome to my **8085 Microprocessor Assembly Code Collection**  
+This repository contains various assembly programs for the **Intel 8085**, written in `.asm` format.
 
 ---
 
@@ -20,9 +20,9 @@ This repository contains various assembly programs for the **Intel 8086**, writt
 ## Requirements
 
 To run these programs, you can use:
-- **8086 Microprocessor Kit** (hardware)
-- OR 8086 Simulator software like:
-  - [GNUSim8086](http://gnusim8085.sourceforge.net/)
-  - [8086 Simulator for Windows](https://8085simulator.codeplex.com/)
+- **8085 Microprocessor Kit** (hardware)
+- OR 8085 Simulator software like:
+  - [GNUSim8085](http://gnusim8085.sourceforge.net/)
+  - [8085 Simulator for Windows](https://8085simulator.codeplex.com/)
 
 ---
